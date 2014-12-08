@@ -1,2 +1,2 @@
-myproject
+php2-test
 =========
